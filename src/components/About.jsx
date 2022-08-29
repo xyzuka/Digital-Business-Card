@@ -5,7 +5,7 @@ export default function About() {
     <div className='about-content-container'>
       <div className="about-header">
         <h2 className='about-header-text'>About</h2>
-        <p className='about-content'>I am a aspiring developer with a interest in solving problems and building tools to solve these problems. I love learning and improving upon myself, always looking for new chances to learn and level up!</p>
+        <p className='about-content'>I'm an aspiring developer with an interest in solving problems and building tools to solve these problems. I love learning and improving myself, always looking for new chances to learn and level up!</p>
       </div>
       <div className="interests-header">
         <h2 className='interests-header-text'>Interests</h2>
