@@ -169,3 +169,12 @@ body {
 .icon:hover {
   cursor: pointer;
 }
+
+@media only screen and (max-width: 600px) {
+  .content-container {
+      background-color: #23252C;
+      margin: 50px auto;
+      border-radius: 10px;
+      width: 80%;
+    }
+}
