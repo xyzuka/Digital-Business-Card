@@ -9,7 +9,9 @@ export default function About() {
       </div>
       <div className="interests-header">
         <h2 className='interests-header-text'>Interests</h2>
-        <p className='interests-content'>Fitness Enthusiast. Avid Learner. Reader. Finance Geek. Dog Lover.</p>
+        <p className='interests-content'>Fitness Enthusiast. Avid Learner. Reader. Finance Geek. Dog Lover.
+        </p>
+        <p className='interests-content'>Note: The buttons below do not work, they are for aesthetic purposes.</p>
       </div>
     </div>
   )

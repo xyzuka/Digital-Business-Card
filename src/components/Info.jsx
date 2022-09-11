@@ -15,10 +15,10 @@ export default function Info() {
           </div>
         </div>
         <div className="info-buttons">
-          <button className="email-button">
+          <button className="email-button" onClick={() => window.location = 'mailto:yeebrandon@outlook.com'}>
             <span className="email-icon"></span><a href = "mailto:yeebrandon@outlook.com">Email</a><span></span>
           </button>
-          <button className="linkedin-button">
+          <button className="linkedin-button" onClick={() => window.location = 'https://www.linkedin.com/in/brandonskyee/'}>
             <span className="linkedin-icon"></span><a href = "https://www.linkedin.com/in/brandonskyee/">LinkedIn</a><span></span>
           </button>
         </div>
